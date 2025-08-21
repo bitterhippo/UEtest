@@ -1539,3 +1539,29 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.21-03.49.11:863][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 443.053223
 [2025.08.21-03.49.12:864][530]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.21-03.49.12:864][530]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 443.720459, Update Interval: 343.628052
+[2025.08.21-03.53.16:623][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.08.21-03.53.16:654][261]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K_Auto1
+[2025.08.21-03.53.16:655][261]LogSavePackage: Moving '../../../../../../Users/barbi/OneDrive/Documents/Unreal Projects/MyProject/Saved/HFL05AWIVBP8M8UXTV4H5K_Auto14B07B21143821B29DB7BBEAF29EDF91D.tmp' to '../../../../../../Users/barbi/OneDrive/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K_Auto1.uasset'
+[2025.08.21-03.53.16:660][261]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.055
+[2025.08.21-03.53.16:660][261]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2025.08.21-03.54.59:584][570]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 790.774292
+[2025.08.21-03.55.00:584][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-03.55.00:584][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 791.441040, Update Interval: 341.881165
+[2025.08.21-04.00.49:308][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1140.499390
+[2025.08.21-04.00.50:309][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-04.00.50:309][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1141.166992, Update Interval: 320.220947
+[2025.08.21-04.06.19:697][610]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1470.887695
+[2025.08.21-04.06.20:698][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-04.06.20:698][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1471.553711, Update Interval: 309.190338
+[2025.08.21-04.11.58:090][625]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1809.283203
+[2025.08.21-04.11.59:091][628]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-04.11.59:091][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1809.949219, Update Interval: 341.861023
+[2025.08.21-04.18.30:154][802]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2201.346191
+[2025.08.21-04.18.31:154][804]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-04.18.31:154][804]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2202.012207, Update Interval: 354.601898
+[2025.08.21-04.24.56:210][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2587.397705
+[2025.08.21-04.24.57:209][962]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-04.24.57:209][962]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2588.061523, Update Interval: 318.201233
+[2025.08.21-04.30.51:598][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2942.785889
+[2025.08.21-04.30.52:599][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-04.30.52:599][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2943.454346, Update Interval: 315.947144
