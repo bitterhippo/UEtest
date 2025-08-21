@@ -1,0 +1,46 @@
+# Builds
+Build/
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcconfig
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Auto-generated Visual Studio files
+*.log
+*.vs/
+.vscode/
+.vsconfig
+
+# Backup files
+*.backup
+*.tmp
+*.swp
+*.user
+*.userprefs
+*.pidb
+
+# Project-specific
+*.opensdf
+*.sdf
+*.ipch
+*.iobj
+*.iuser
+*.suo
+*.ncb
+*.aps
+*.pch
+*.pdb
+
+# Ignore any other binaries or temp files
+*.bin
+*.obj
+*.lib
+*.cache
