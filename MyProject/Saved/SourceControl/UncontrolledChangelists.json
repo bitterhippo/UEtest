@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/barbi/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset",
+				"C:/Users/barbi/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CT/D49NBZTURNHD6ZYVXJMD2Q.uasset",
+				"C:/Users/barbi/OneDrive/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Materials/M_Pixelate.uasset",
+				"C:/Users/barbi/OneDrive/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Materials/PP_Pixelate.uasset",
+				"C:/Users/barbi/OneDrive/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/barbi/OneDrive/Documents/Unreal Projects/MyProject/Content/Input/MappingContexts/IMC_CharacterControls.uasset",
+				"C:/Users/barbi/OneDrive/Documents/Unreal Projects/MyProject/Content/Input/Actions/IA_Crouch.uasset"
+			]
+		}
+	]
+}
